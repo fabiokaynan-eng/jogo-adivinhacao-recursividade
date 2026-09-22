@@ -61,14 +61,6 @@ Esse comando compila o arquivo `main.c` e cria o executável chamado `jogo`.
 ./jogo.exe
 ```
 
-#### Linux / macOS
-
-Execute:
-
-```bash
-./jogo
-```
-
 ## Como jogar
 
 Ao iniciar o programa, aparecerá o menu principal:
@@ -132,40 +124,6 @@ Contém toda a implementação do jogo, incluindo:
 ### `README.md`
 
 Este arquivo contém as informações do projeto e as instruções necessárias para compilar e executar a aplicação.
-
-## Exemplo de execução
-
-```text
-===========================
-    JOGO DE ADIVINHAÇÃO
-===========================
-
-1 - Iniciar jogo
-2 - Sair
-
-Escolha uma opção: 1
-
-===========================
-       ESCOLHA O NIVEL
-===========================
-
-1 - Facil (10 chances)
-2 - Medio (5 chances)
-3 - Dificil (3 chances)
-
-Escolha: 1
-
-===========================
-     JOGO DE ADIVINHAÇÃO
-===========================
-
-Tente adivinhar um numero de 1 a 100!
-
-Tentativa 1 de 10
-Digite seu palpite: 50
-
-O numero secreto e MAIOR que 50.
-```
 
 ## Objetivo
 

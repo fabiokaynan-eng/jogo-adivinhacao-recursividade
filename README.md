@@ -33,22 +33,6 @@ A função para de chamar a si mesma quando o jogador acerta o número ou quando
 
 Dessa forma, conseguimos aplicar o conceito de recursividade dentro de uma situação prática e simples.
 
-## Requisitos
-
-Para executar o projeto, é necessário ter:
-
-- Um computador com **Windows, Linux ou outro sistema compatível com C**;
-- Um compilador da linguagem C, como o **GCC**;
-- O arquivo `main.c` do projeto.
-
-O programa utiliza apenas bibliotecas padrão da linguagem C:
-
-- `stdio.h`
-- `stdlib.h`
-- `time.h`
-
-Não é necessário instalar bibliotecas externas.
-
 ## Como rodar a aplicação
 
 ### 1. Abra o terminal na pasta do projeto
@@ -71,15 +55,7 @@ Esse comando compila o arquivo `main.c` e cria o executável chamado `jogo`.
 
 ### 3. Execute o programa
 
-#### Windows
-
-No terminal do Windows, execute:
-
-```bash
-jogo.exe
-```
-
-ou:
+#### VSCOD
 
 ```bash
 ./jogo.exe
